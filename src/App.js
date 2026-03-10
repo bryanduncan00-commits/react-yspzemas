@@ -1,5 +1,4 @@
 import React, { useState, useEffect, useCallback } from "react";
-import { useState, useEffect, useCallback } from "react";
 import { BarChart, Bar, XAxis, YAxis, Tooltip, ResponsiveContainer, LineChart, Line, CartesianGrid } from "recharts";
 
 // ╔══════════════════════════════════════════════════════════════╗
